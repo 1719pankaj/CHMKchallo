@@ -12,7 +12,7 @@ and sends it over to firebase cloud as well as hosts it locally
 
 ## Front-End
 
-[Phuljhari.](https://github.com/1719pankaj/Phuljhari) is an accompanying android applicaition for this project.
+[Phuljhari](https://github.com/1719pankaj/Phuljhari) is an accompanying android applicaition for this project.
 
 ## Installation
 
