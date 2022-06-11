@@ -25,14 +25,14 @@
 #define REPORTING_PERIOD_MS     1000
 
 // Insert your network credentials
-#define WIFI_SSID "J_WICK"
-#define WIFI_PASSWORD "bitemebitemebiteme"
+#define WIFI_SSID "INSERT_SSID"
+#define WIFI_PASSWORD "INSERT_PASSWORD"
 
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyAEzIhYurT4SrWkRGug0JtGxjeu-Pop_nA"
+#define API_KEY "INSERT_API_KEY_HERE"
 
 // Insert RTDB URLefine the RTDB URL */
-#define DATABASE_URL "esp-demo-10faa-default-rtdb.asia-southeast1.firebasedatabase.app" 
+#define DATABASE_URL "INSERT_DB_URL_HERE" 
 
 DHT dht(DHTPIN, DHTTYPE);
 OneWire oneWire(ONE_WIRE_BUS);  
